@@ -6,11 +6,11 @@ A small pilot for labelling LLM failures. It has 20 hand-annotated records, a la
 
 I've spent 14 years in records management doing QC, where every record has to be checked and every correction has to be explained. SENTINEL applies the same habits to LLM output: read the response, label the failure, rate how serious it is, and write down why.
 
-This is a pilot. Seven records show the method, but they are too few to measure anything. No model was tested.
+This is a pilot. 20 records show the method, but they are too few to measure anything. No model was tested.
 
 ## The data
 
-- **Size:** 7 records (see `data/sentinel_records.csv`)
+- **Size:** 20 records (see `data/sentinel_records.csv`)
 - **Source:** I wrote the prompts and responses myself to represent common failure types. They are not taken from a real system.
 - **Covers:** factual questions, prompt injection, and contract summaries
 - **Annotator:** one person (me), so there is no agreement score
