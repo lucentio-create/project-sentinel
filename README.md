@@ -1,6 +1,6 @@
 # SENTINEL: LLM Failure & Safety Evaluation Pilot
 
-A small pilot for labelling LLM failures. It has 7 hand-annotated records, a labelling guide, and a Label Studio setup.
+A small pilot for labelling LLM failures. It has 20 hand-annotated records, a labelling guide, and a Label Studio setup.
 
 ## What this is
 
