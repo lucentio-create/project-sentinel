@@ -10,7 +10,7 @@ This is a pilot. 20 records show the method, but they are too few to measure any
 
 ## The data
 
-- **Size:** 20 records (see `data/sentinel_records.csv`)
+- **Size:** 20 records (see the data folder)
 - **Source:** I wrote the prompts and responses myself to represent common failure types. They are not taken from a real system.
 - **Covers:** factual questions, prompt injection, and contract summaries
 - **Annotator:** one person (me), so there is no agreement score
